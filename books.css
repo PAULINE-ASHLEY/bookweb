@@ -1,0 +1,37 @@
+*{
+margin: 0;
+padding: 0;
+user-select: none;
+box-sizing: border-box;
+font-family: 'coralbel';
+list-style: none;
+text-decoration: none;
+}
+html{
+  scroll-behavior: smooth;
+}
+.fa {
+padding: 10px;
+font-size: 18px;
+text-align: center;
+text-decoration: none;
+}
+.fa-facebook {
+color:white;
+font-weight: bolder;
+}
+.fa-twitter {
+color:white;
+font-weight: bolder;
+}
+.fa-instagram {
+color:white;
+font-weight: bolder;
+}
+.fa-linkedin {
+color:white;
+font-weight: bolder;
+}
+p{
+  font-weight: 600;
+}
